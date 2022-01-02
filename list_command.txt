@@ -1,4 +1,4 @@
-============dvThang14================
+============dvThang124================
 - git init
 - git status
 - echo>led.c# create file led.c
@@ -34,3 +34,4 @@
 
 - git push origin --delete test #delete branch in remote
 - git restore .
+- gitk# show flowchart
