@@ -35,3 +35,5 @@
 - git push origin --delete test #delete branch in remote
 - git restore .
 - gitk# show flowchart
+
+- git rebase develop
